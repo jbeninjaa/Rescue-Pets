@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {0.1}Problem Statement}{2}{}%
+\contentsline {section}{\numberline {0.2}Research Objectives}{3}{}%
+\contentsline {subsection}{\numberline {0.2.1}General Objective}{3}{}%
+\contentsline {subsection}{\numberline {0.2.2}Specific Objectives}{3}{}%
+\contentsline {section}{\numberline {0.3}Scope and Limitations of the Research}{3}{}%
+\contentsline {section}{\numberline {0.4}Significance of the Research}{4}{}%
+\contentsline {chapter}{\numberline {1}Review of Related Literature}{5}{}%
+\contentsline {section}{\numberline {1.1}Theme 1 Title}{5}{}%
+\contentsline {section}{\numberline {1.2}Theme 2 Title}{6}{}%
+\contentsline {chapter}{\numberline {2}Research Methodology}{7}{}%
+\contentsline {section}{\numberline {2.1}Research Activities}{7}{}%
+\contentsline {section}{\numberline {2.2}Calendar of Activities}{8}{}%
+\contentsline {chapter}{\numberline {3}Preliminary Results/System Prototype}{9}{}%
+\contentsline {chapter}{\numberline {A}Appendix}{10}{}%
+\contentsline {chapter}{\numberline {B}Resource Persons}{11}{}%
+\contentsline {chapter}{References}{12}{}%
