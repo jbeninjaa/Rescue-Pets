@@ -33,7 +33,7 @@ RESEARCHERS. The researchers perform the handy activities from inquiry, consulta
 	\item TexStudio and Microsoft Word for Documentation
 	\item Zoom application for consultations and meeting with the adviser
 	\item Github 
-	\item Firebase
+	\item Adobe XD
 \end{itemize}
 
 \subsection{User Specifications}
@@ -61,10 +61,33 @@ The study is tested by the following users: a) AARRC representative b) researche
 ~~~~The system's possible implementation, as envisioned by the researchers, is web-based. The mobile development of the system is further pursued based on the researchers' decision or can be done by future researchers who will conduct the same study. Because the study's focus is on the application of gamification and log-in features to the animal rescue system, the study will be implemented after careful and successful testing and operation of the system by domain experts.
 
 \subsection{Methods}
+\subsubsection{Federated login}
+~~~~The internet is a vast world, and its population of users just grows day-by-day. This is more prevalent as the pandemic caused lockdowns that brought everything online. People create different user accounts, social media, educational sites, lifestyle applications, and many other more. This results in many accounts signing in credentials to remember, and we all know how passwords can be a pain, we just can't help but forget it. Some users may opt to have the same password on multiple different accounts just so that they will not forget it, which is a big security risk. One solution to avoid this problem without sacrificing the safety of the user is by using federated login. Federated login means that the user authenticates by using a third-party service such as Google or Facebook, besides others, and not reentering any credentials or profile information.
+
+\subsubsection{Account Creation}
 
 \subsection{Procedure}
+\subsubsection{Integration of Federated login}
+~~~~We will use Google sign-in as a federated login tool for the website. According to Google, Google sign-in manages the OAuth 2.0 flow and token lifecycle, simplifying the integration with Google APIs. OAuth 2.0 is the industry-standard protocol for authorization. The steps and guide below will be taken from Google’s own developer website, https://developers.google.com.
+First step is to create authorization credentials, any application that uses OAuth 2.0 to access Google APIs must have authorization credentials that identify that application to Google’s OAuth Server (Google. (n.d.).
 
-The actual activities undertaken based on the methods were:
+\begin{enumerate}
+	\item Go to the Credentials page, \emph{https://console.developers.google.com/apis/credentials}.
+	\item Click \textbf{Create credentials} $\rightarrow$ \textbf{OAuth client ID}.
+	\item Select the \textbf{Web application} type.
+	\item Name your OAuth 2.0 client and click \textbf{Create}.
+	
+	~~~~After configuration is complete, take note of the client ID that was created. You will need the client ID to complete the next steps. (A client secret is also created, but you need it only for server-side operations.)
+	\item Load the Google Platform Library.
+	\item Specify the app’s \textbf{client ID} created for the app in the Google Developers Console with the google signin-client-id meta element.
+	\item Add a Google sign-in button, the default Google sign-in button that uses the default setting needs to add a div element with the class g-signin2 in the sign-in page. 
+	\item Get profile information by using the getBasicProfile() method.
+	
+	~~~~Enabling user to sign out of the web app without signing out of Google by adding a sign-out button or link to the web site. To create a sign-out link, attach a function that calls the GoogleAuth.signOut() method to the link’s onclick event. 
+		
+\end{enumerate}
+
+
 
 
 \section{Calendar of Activities}

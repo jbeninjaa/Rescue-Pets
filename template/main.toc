@@ -22,14 +22,18 @@
 \contentsline {subsection}{\numberline {3.1.5}Testing and operation}{13}{}%
 \contentsline {subsection}{\numberline {3.1.6}System Implementation}{13}{}%
 \contentsline {subsection}{\numberline {3.1.7}Methods}{14}{}%
+\contentsline {subsubsection}{Federated login}{14}{}%
 \contentsline {subsection}{\numberline {3.1.8}Procedure}{14}{}%
-\contentsline {section}{\numberline {3.2}Calendar of Activities}{14}{}%
-\contentsline {chapter}{\numberline {4}Preliminary Results/System Prototype}{15}{}%
-\contentsline {section}{\numberline {4.1}Home Page}{16}{}%
-\contentsline {section}{\numberline {4.2}Sign Up Page}{16}{}%
-\contentsline {section}{\numberline {4.3}Navigation Bar}{16}{}%
-\contentsline {section}{\numberline {4.4}Log-in Page}{16}{}%
-\contentsline {section}{\numberline {4.5}Profile Page}{16}{}%
-\contentsline {chapter}{\numberline {A}Appendix}{17}{}%
-\contentsline {chapter}{\numberline {B}Resource Persons}{18}{}%
-\contentsline {chapter}{References}{19}{}%
+\contentsline {subsubsection}{Integration of Federated login}{14}{}%
+\contentsline {section}{\numberline {3.2}Calendar of Activities}{15}{}%
+\contentsline {chapter}{\numberline {4}Preliminary Results/System Prototype}{17}{}%
+\contentsline {section}{\numberline {4.1}Preliminary Results}{17}{}%
+\contentsline {section}{\numberline {4.2}System Prototype}{18}{}%
+\contentsline {subsection}{\numberline {4.2.1}Home Page}{18}{}%
+\contentsline {subsection}{\numberline {4.2.2}Sign Up Page}{19}{}%
+\contentsline {subsection}{\numberline {4.2.3}Navigation Bar}{20}{}%
+\contentsline {subsection}{\numberline {4.2.4}Log-in Page}{21}{}%
+\contentsline {subsection}{\numberline {4.2.5}Profile Page}{22}{}%
+\contentsline {chapter}{\numberline {A}Appendix}{23}{}%
+\contentsline {chapter}{\numberline {B}Resource Persons}{24}{}%
+\contentsline {chapter}{References}{25}{}%
