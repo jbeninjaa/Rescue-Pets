@@ -1,16 +1,35 @@
-\contentsline {section}{\numberline {0.1}Problem Statement}{2}{}%
-\contentsline {section}{\numberline {0.2}Research Objectives}{3}{}%
-\contentsline {subsection}{\numberline {0.2.1}General Objective}{3}{}%
-\contentsline {subsection}{\numberline {0.2.2}Specific Objectives}{3}{}%
-\contentsline {section}{\numberline {0.3}Scope and Limitations of the Research}{3}{}%
-\contentsline {section}{\numberline {0.4}Significance of the Research}{4}{}%
-\contentsline {chapter}{\numberline {1}Review of Related Literature}{5}{}%
-\contentsline {section}{\numberline {1.1}Theme 1 Title}{5}{}%
-\contentsline {section}{\numberline {1.2}Theme 2 Title}{6}{}%
-\contentsline {chapter}{\numberline {2}Research Methodology}{7}{}%
-\contentsline {section}{\numberline {2.1}Research Activities}{7}{}%
-\contentsline {section}{\numberline {2.2}Calendar of Activities}{8}{}%
-\contentsline {chapter}{\numberline {3}Preliminary Results/System Prototype}{9}{}%
-\contentsline {chapter}{\numberline {A}Appendix}{10}{}%
-\contentsline {chapter}{\numberline {B}Resource Persons}{11}{}%
-\contentsline {chapter}{References}{12}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {1.1}Overview of the Current State of Technology}{1}{}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{3}{}%
+\contentsline {section}{\numberline {1.3}Research Objectives}{4}{}%
+\contentsline {subsection}{\numberline {1.3.1}General Objective}{4}{}%
+\contentsline {subsection}{\numberline {1.3.2}Specific Objectives}{4}{}%
+\contentsline {section}{\numberline {1.4}Scope and Limitations of the Research}{4}{}%
+\contentsline {section}{\numberline {1.5}Significance of the Research}{4}{}%
+\contentsline {chapter}{\numberline {2}Review of Related Literature}{6}{}%
+\contentsline {section}{\numberline {2.1}The Rise of Animal Welfarism}{6}{}%
+\contentsline {section}{\numberline {2.2}Philippine Animal Welfare Society}{7}{}%
+\contentsline {section}{\numberline {2.3}The Albert Foundation}{7}{}%
+\contentsline {section}{\numberline {2.4}Gcash Forest}{8}{}%
+\contentsline {section}{\numberline {2.5}Gamification}{9}{}%
+\contentsline {section}{\numberline {2.6}Automatic Login of Account}{10}{}%
+\contentsline {chapter}{\numberline {3}Research Methodology}{11}{}%
+\contentsline {section}{\numberline {3.1}Research Activities}{11}{}%
+\contentsline {subsection}{\numberline {3.1.1}Design of the Study}{11}{}%
+\contentsline {subsection}{\numberline {3.1.2}Persons Involved}{12}{}%
+\contentsline {subsection}{\numberline {3.1.3}Technical and Software Specifications}{12}{}%
+\contentsline {subsection}{\numberline {3.1.4}User Specifications}{12}{}%
+\contentsline {subsection}{\numberline {3.1.5}Testing and operation}{13}{}%
+\contentsline {subsection}{\numberline {3.1.6}System Implementation}{13}{}%
+\contentsline {subsection}{\numberline {3.1.7}Methods}{14}{}%
+\contentsline {subsection}{\numberline {3.1.8}Procedure}{14}{}%
+\contentsline {section}{\numberline {3.2}Calendar of Activities}{14}{}%
+\contentsline {chapter}{\numberline {4}Preliminary Results/System Prototype}{15}{}%
+\contentsline {section}{\numberline {4.1}Home Page}{16}{}%
+\contentsline {section}{\numberline {4.2}Sign Up Page}{16}{}%
+\contentsline {section}{\numberline {4.3}Navigation Bar}{16}{}%
+\contentsline {section}{\numberline {4.4}Log-in Page}{16}{}%
+\contentsline {section}{\numberline {4.5}Profile Page}{16}{}%
+\contentsline {chapter}{\numberline {A}Appendix}{17}{}%
+\contentsline {chapter}{\numberline {B}Resource Persons}{18}{}%
+\contentsline {chapter}{References}{19}{}%
