@@ -1,92 +1,89 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.5)  10 MAY 2022 12:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.8)  10 MAY 2022 13:44
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **./SP-name.tex
 (SP-name.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-04-20>
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+\@input{preamble.aux}
+\openout2 = `preamble.aux'.
 
-LaTeX Warning: \include should only be used after \begin{document} on input lin
-e 3.
-
-(preamble.tex (C:\Program Files\MiKTeX\tex/latex/base\book.cls
-Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
-(C:\Program Files\MiKTeX\tex/latex/base\bk12.clo
-File: bk12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+(preamble.tex
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count185
-\c@chapter=\count186
-\c@section=\count187
-\c@subsection=\count188
-\c@subsubsection=\count189
-\c@paragraph=\count190
-\c@subparagraph=\count191
-\c@figure=\count192
-\c@table=\count193
+\c@part=\count182
+\c@chapter=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(C:\Program Files\MiKTeX\tex/latex/pdfpages\pdfpages.sty
-Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
 
-(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(C:\Program Files\MiKTeX\tex/latex/tools\calc.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count194
-\calc@Bcount=\count195
+\calc@Acount=\count191
+\calc@Bcount=\count192
 \calc@Adimen=\dimen139
 \calc@Bdimen=\dimen140
 \calc@Askip=\skip49
 \calc@Bskip=\skip50
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count196
+\calc@Ccount=\count193
 \calc@Cskip=\skip51
 )
-(C:\Program Files\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
 Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
 \ESO@tempdima=\dimen141
 \ESO@tempdimb=\dimen142
 
-(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
-Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 )
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
-Package xcolor Info: Model `RGB' extended on input line 1368.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
-))
-(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)) (C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
@@ -98,53 +95,53 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 \AM@pageheight=\dimen146
 \AM@fboxrule=\dimen147
 
-(C:\Program Files\MiKTeX\tex/latex/pdfpages\pppdftex.def
-File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
 )
-\pdfpages@includegraphics@status=\count197
+\pdfpages@includegraphics@status=\count194
 \AM@pagebox=\box50
 \AM@global@opts=\toks17
-\AM@pagecnt=\count198
+\AM@pagecnt=\count195
 \AM@toc@title=\toks18
-\c@AM@survey=\count199
+\c@AM@survey=\count196
 \AM@templatesizebox=\box51
 )
-(C:\Program Files\MiKTeX\tex/latex/apacite\apacite.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/apacite\apacite.sty
 Package: apacite 2013/07/21 v6.03 APA citation
-\c@BibCnt=\count266
+\c@BibCnt=\count197
 \bibleftmargin=\skip52
 \bibindent=\skip53
 \bibparsep=\skip54
 \bibitemsep=\skip55
 \biblabelsep=\skip56
 )
-(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2021/10/15 v2.17l AMS math features
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
 \@mathmargin=\skip57
 
 For additional information on amsmath, use the `?' option.
-(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
-Package: amstext 2021/08/26 v2.01 AMS text
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
 
-(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks19
 \ex@=\dimen148
 ))
-(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen149
 )
-(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
-Package: amsopn 2021/08/26 v2.02 operator names
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count267
+\inf@bad=\count198
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count268
-\leftroot@=\count269
+\uproot@=\count199
+\leftroot@=\count266
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count270
-\DOTSCASE@=\count271
+\classnum@=\count267
+\DOTSCASE@=\count268
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -153,15 +150,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen150
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count272
-\c@MaxMatrixCols=\count273
+\macc@depth=\count269
+\c@MaxMatrixCols=\count270
 \dotsspace@=\muskip16
-\c@parentequation=\count274
-\dspbrk@lvl=\count275
+\c@parentequation=\count271
+\dspbrk@lvl=\count272
 \tag@help=\toks20
-\row@=\count276
-\column@=\count277
-\maxfields@=\count278
+\row@=\count273
+\column@=\count274
+\maxfields@=\count275
 \andhelp@=\toks21
 \eqnshift@=\dimen151
 \alignsep@=\dimen152
@@ -173,10 +170,10 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \multlinegap=\skip58
 \multlinetaggap=\skip59
 \mathdisplay@stack=\toks23
-LaTeX Info: Redefining \[ on input line 2938.
-LaTeX Info: Redefining \] on input line 2939.
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
 )
-(C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -184,24 +181,24 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-(C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-(C:\Program Files\MiKTeX\tex/latex/tools\verbatim.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks24
 \verbatim@line=\toks25
 \verbatim@in@stream=\read2
 )
-(C:\Program Files\MiKTeX\tex/latex/url\url.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 
-(C:\Program Files\MiKTeX\tex/latex/tools\array.sty
-Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
 \col@sep=\dimen157
 \ar@mcellbox=\box54
 \extrarowheight=\dimen158
@@ -215,15 +212,16 @@ Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
 \TX@old@col=\dimen161
 \TX@target=\dimen162
 \TX@delta=\dimen163
-\TX@cols=\count279
+\TX@cols=\count276
 \TX@ftn=\toks27
 )
-(C:\Program Files\MiKTeX\tex/latex/setspace\setspace.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 ))
-(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count280
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count277
 \l__pdf_internal_box=\box56
 )
 
@@ -233,6 +231,9 @@ LaTeX Warning: Unused global option(s):
 (SP-name.aux (title_page.aux) (approval.aux) (declaration.aux) (dedication.aux)
 (acknowlegment.aux) (abstract.aux) (chapter_1.aux) (chapter_2.aux)
 (chapter_3.aux) (chapter_4.aux
+
+LaTeX Warning: Label `fig:disneystock' multiply defined.
+
 
 LaTeX Warning: Label `fig:disneystock' multiply defined.
 
@@ -257,76 +258,83 @@ LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 
-(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count281
+\scratchcounter=\count278
 \scratchdimen=\dimen164
 \scratchbox=\box57
-\nofMPsegments=\count282
-\nofMParguments=\count283
+\nofMPsegments=\count279
+\nofMParguments=\count280
 \everyMPshowfont=\toks28
-\MPscratchCnt=\count284
+\MPscratchCnt=\count281
 \MPscratchDim=\dimen165
-\MPnumerator=\count285
-\makeMPintoPDFobject=\count286
+\MPnumerator=\count282
+\makeMPintoPDFobject=\count283
 \everyMPtoPDFconversion=\toks29
-) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-(C:\Program Files\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 
-(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
-(C:\Program Files\MiKTeX\tex/latex/graphics\lscape.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-\c@maskedRefs=\count287
+\c@maskedRefs=\count284
 
-(C:\Program Files\MiKTeX\tex/latex/apacite\english.apc
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/apacite\english.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 )
 \openout2 = `title_page.aux'.
 
- (title_page.tex
-[1
+
+(title_page.tex [1
 
 
 
-{C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
+
+
+
+{C:/Users/Acer/AppData/Local/MiKTeX/pdftex/config/pdftex.map}])
 \openout2 = `approval.aux'.
 
-
-(approval.tex
+ (approval.tex
 LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
 
- (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
 
 
-(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)) [2
+))
+[2
 
 
 
 ]
 \openout2 = `declaration.aux'.
 
- (declaration.tex)
-[3
+ (declaration.tex) [3
 
 
 
@@ -343,7 +351,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  (acknowlegment.tex)
 \openout2 = `abstract.aux'.
 
- (abstract.tex)
+
+(abstract.tex)
 Overfull \hbox (18.49797pt too wide) in paragraph at lines 12--15
 [][] 
  []
@@ -373,13 +382,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \tf@lof=\write4
 \openout4 = `SP-name.lof'.
 
- [11] [12
 
-] (SP-name.lot)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+[12] (SP-name.lot)
 \tf@lot=\write5
 \openout5 = `SP-name.lot'.
 
- [13]
+ [13
+
+]
 \openout2 = `chapter_1.aux'.
 
  (chapter_1.tex
@@ -530,20 +543,20 @@ Chapter 5.
 ]
 Chapter 6.
 (SP-name.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29]))
-[30]
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+)) [29]
 \openout2 = `appendix_A.aux'.
 
- (appendix_A.tex
-Appendix A.
-) [31
+ (appendix_A.tex [30
 
 
 
 
 ]
+Appendix A.
+) [31]
 \openout2 = `appendix_B.aux'.
 
  (appendix_B.tex [32
@@ -567,24 +580,24 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5231 strings out of 478547
- 85508 string characters out of 2851654
- 381343 words of memory out of 3000000
- 23269 multiletter control sequences out of 15000+600000
- 478142 words of font info for 60 fonts, out of 8000000 for 9000
+ 4700 strings out of 478927
+ 68665 string characters out of 2853009
+ 380215 words of memory out of 3000000
+ 22378 multiletter control sequences out of 15000+600000
+ 411966 words of font info for 58 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 77i,10n,81p,1097b,242s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
-200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/P
-rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pf
-b>
-Output written on SP-name.pdf (46 pages, 251150 bytes).
+ 79i,10n,85p,1097b,223s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
+200.pk><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmbx12.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Acer/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/Acer/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on SP-name.pdf (46 pages, 231544 bytes).
 PDF statistics:
- 196 PDF objects out of 1000 (max. 8388607)
+ 191 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
