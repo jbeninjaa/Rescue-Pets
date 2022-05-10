@@ -1,0 +1,590 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.5)  10 MAY 2022 12:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./SP-name.tex
+(SP-name.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-04-20>
+
+LaTeX Warning: \include should only be used after \begin{document} on input lin
+e 3.
+
+(preamble.tex (C:\Program Files\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Program Files\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
+
+(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count194
+\calc@Bcount=\count195
+\calc@Adimen=\dimen139
+\calc@Bdimen=\dimen140
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count196
+\calc@Cskip=\skip51
+)
+(C:\Program Files\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen141
+\ESO@tempdimb=\dimen142
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+))
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+\AM@pagewidth=\dimen145
+\AM@pageheight=\dimen146
+\AM@fboxrule=\dimen147
+
+(C:\Program Files\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count197
+\AM@pagebox=\box50
+\AM@global@opts=\toks17
+\AM@pagecnt=\count198
+\AM@toc@title=\toks18
+\c@AM@survey=\count199
+\AM@templatesizebox=\box51
+)
+(C:\Program Files\MiKTeX\tex/latex/apacite\apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count266
+\bibleftmargin=\skip52
+\bibindent=\skip53
+\bibparsep=\skip54
+\bibitemsep=\skip55
+\biblabelsep=\skip56
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen148
+))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen149
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count267
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count268
+\leftroot@=\count269
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count270
+\DOTSCASE@=\count271
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen150
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count272
+\c@MaxMatrixCols=\count273
+\dotsspace@=\muskip16
+\c@parentequation=\count274
+\dspbrk@lvl=\count275
+\tag@help=\toks20
+\row@=\count276
+\column@=\count277
+\maxfields@=\count278
+\andhelp@=\toks21
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks22
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks24
+\verbatim@line=\toks25
+\verbatim@in@stream=\read2
+)
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(C:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen157
+\ar@mcellbox=\box54
+\extrarowheight=\dimen158
+\NC@list=\toks26
+\extratabsurround=\skip60
+\backup@length=\skip61
+\ar@cellbox=\box55
+)
+\TX@col@width=\dimen159
+\TX@old@table=\dimen160
+\TX@old@col=\dimen161
+\TX@target=\dimen162
+\TX@delta=\dimen163
+\TX@cols=\count279
+\TX@ftn=\toks27
+)
+(C:\Program Files\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+))
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count280
+\l__pdf_internal_box=\box56
+)
+
+LaTeX Warning: Unused global option(s):
+    [twopage].
+
+(SP-name.aux (title_page.aux) (approval.aux) (declaration.aux) (dedication.aux)
+(acknowlegment.aux) (abstract.aux) (chapter_1.aux) (chapter_2.aux)
+(chapter_3.aux) (chapter_4.aux
+
+LaTeX Warning: Label `fig:disneystock' multiply defined.
+
+
+LaTeX Warning: Label `fig:disneystock' multiply defined.
+
+) (chapter_5.aux) (chapter_6.aux) (appendix_A.aux) (appendix_B.aux))
+\openout1 = `SP-name.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count281
+\scratchdimen=\dimen164
+\scratchbox=\box57
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen165
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks29
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Program Files\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+\c@maskedRefs=\count287
+
+(C:\Program Files\MiKTeX\tex/latex/apacite\english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+\openout2 = `title_page.aux'.
+
+ (title_page.tex
+[1
+
+
+
+{C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
+\openout2 = `approval.aux'.
+
+
+(approval.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)) [2
+
+
+
+]
+\openout2 = `declaration.aux'.
+
+ (declaration.tex)
+[3
+
+
+
+]
+\openout2 = `dedication.aux'.
+
+ (dedication.tex) [4
+
+
+
+]
+\openout2 = `acknowlegment.aux'.
+
+ (acknowlegment.tex)
+\openout2 = `abstract.aux'.
+
+ (abstract.tex)
+Overfull \hbox (18.49797pt too wide) in paragraph at lines 12--15
+[][] 
+ []
+
+[5
+
+
+
+
+
+
+] [6
+
+
+
+] (SP-name.toc
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+[8])
+\tf@toc=\write3
+\openout3 = `SP-name.toc'.
+
+ [9] [10
+
+] (SP-name.lof)
+\tf@lof=\write4
+\openout4 = `SP-name.lof'.
+
+ [11] [12
+
+] (SP-name.lot)
+\tf@lot=\write5
+\openout5 = `SP-name.lot'.
+
+ [13]
+\openout2 = `chapter_1.aux'.
+
+ (chapter_1.tex
+Chapter 1.
+[1
+
+
+]
+Underfull \vbox (badness 3724) has occurred while \output is active []
+
+ [2]
+[3]
+Underfull \vbox (badness 2653) has occurred while \output is active []
+
+ [4])
+[5]
+\openout2 = `chapter_2.aux'.
+
+ (chapter_2.tex [6
+
+
+
+
+]
+Chapter 2.
+[7]
+Underfull \vbox (badness 4001) has occurred while \output is active []
+
+ [8]
+[9] [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12])
+[13]
+\openout2 = `chapter_3.aux'.
+
+ (chapter_3.tex [14
+
+
+
+
+]
+Chapter 3.
+
+Overfull \hbox (3.7876pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/n/12 This chap-ter dis-cusses the ac-tiv-i-ties and method-olo-gies 
+em-ployed by the re-searchers
+ []
+
+[15]
+Underfull \vbox (badness 4168) has occurred while \output is active []
+
+ [16]
+Underfull \vbox (badness 2970) has occurred while \output is active []
+
+ [17]
+[18]
+Overfull \hbox (22.42862pt too wide) in paragraph at lines 115--116
+[]\OT1/cmr/m/n/12 1. Go to the Cre-den-tials page, https://console.developers.g
+oogle.com/apis/credentials. 
+ []
+
+[19]
+Underfull \hbox (badness 1910) in paragraph at lines 171--171
+[]|\OT1/cmr/m/n/12 Proposal of cho-sen SP
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 172--172
+[]|\OT1/cmr/m/n/12 Approval from the ad-
+ []
+
+
+Overfull \hbox (9.27121pt too wide) in paragraph at lines 168--183
+ [][] 
+ []
+
+) [20] [21]
+\openout2 = `chapter_4.aux'.
+
+ (chapter_4.tex [22
+
+
+
+
+]
+Chapter 4.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+<figures//SUP.png, id=121, 376.40625pt x 194.97844pt>
+File: figures//SUP.png Graphic file (type png)
+<use figures//SUP.png>
+Package pdftex.def Info: figures//SUP.png  used on input line 27.
+(pdftex.def)             Requested size: 376.40532pt x 194.97795pt.
+<figures//LogPage.png, id=122, 376.40625pt x 182.18062pt>
+File: figures//LogPage.png Graphic file (type png)
+<use figures//LogPage.png>
+Package pdftex.def Info: figures//LogPage.png  used on input line 42.
+(pdftex.def)             Requested size: 376.40532pt x 182.18016pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures//Home Page.png, id=123, 376.40625pt x 194.97844pt>
+File: figures//Home Page.png Graphic file (type png)
+<use figures//Home Page.png>
+Package pdftex.def Info: figures//Home Page.png  used on input line 54.
+(pdftex.def)             Requested size: 376.40532pt x 194.97795pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures//Profile page.png, id=124, 376.40625pt x 198.7425pt>
+File: figures//Profile page.png Graphic file (type png)
+<use figures//Profile page.png>
+Package pdftex.def Info: figures//Profile page.png  used on input line 68.
+(pdftex.def)             Requested size: 376.40532pt x 198.742pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24 <./figures//SUP.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [25 <./figures//LogPage.png>] [26 <./figures//Home Page.png> <./figures//Prof
+ile page.png>]
+\openout2 = `chapter_5.aux'.
+
+ (chapter_5.tex
+Chapter 5.
+) [27
+
+
+
+
+]
+\openout2 = `chapter_6.aux'.
+
+ (chapter_6.tex [28
+
+
+
+
+]
+Chapter 6.
+(SP-name.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29]))
+[30]
+\openout2 = `appendix_A.aux'.
+
+ (appendix_A.tex
+Appendix A.
+) [31
+
+
+
+
+]
+\openout2 = `appendix_B.aux'.
+
+ (appendix_B.tex [32
+
+
+
+
+]
+Appendix B.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 29--35
+
+ []
+
+[33] (SP-name.aux (title_page.aux) (approval.aux) (declaration.aux)
+(dedication.aux) (acknowlegment.aux) (abstract.aux) (chapter_1.aux)
+(chapter_2.aux) (chapter_3.aux) (chapter_4.aux) (chapter_5.aux) (chapter_6.aux)
+(appendix_A.aux) (appendix_B.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5231 strings out of 478547
+ 85508 string characters out of 2851654
+ 381343 words of memory out of 3000000
+ 23269 multiletter control sequences out of 15000+600000
+ 478142 words of font info for 60 fonts, out of 8000000 for 9000
+ 1143 hyphenation exceptions out of 8191
+ 77i,10n,81p,1097b,242s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
+200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/P
+rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pf
+b>
+Output written on SP-name.pdf (46 pages, 251150 bytes).
+PDF statistics:
+ 196 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,20 +1,185 @@
 %   Filename    : chapter_4.tex 
 \chapter{Research Methodology}
-This chapter lists and discusses the specific steps and activities that  were  performed  to accomplish the project. 
-The discussion covers the activities from pre-proposal to Final SP Writing.
+This chapter discusses the activities and methodologies employed by the researchers in conducting the study. These include the design of the study, persons involved, technical and software specifications, testing and operation, system implementation, methods and procedures.
 
 \section{Research Activities}
-Research activities include inquiry, survey, research, brainstorming, canvassing, consultation, review, interview, observe, experiment, design, test, document, etc.  
-Be sure that for each method, process, or algorithm used, there is a justification why that method was chosen.
-The methodology also includes the following information:
+
+\subsection{Design of the Study}
+
+Aklan Animal Rehabilitation and Rescue Center is the province of Aklan’s only
+animal shelter. This research focuses not only on the development of an animal
+system, but also on the incorporation of gamification and log-in features to it.
+
+Merriam-Webster defines gamification as the process of incorporating games
+or game-like elements into something (such as a task) in order to increase participation.[
+10] Zichermann and Cunningham (2011) believe that this framework
+for understanding gamification is both powerful and adaptable, as it can be easily
+applied to any problem that can be solved by influencing human motivation and
+behavior .[11]
+
+The agile methodology is used by the researchers in the development of the
+system. Agile Methodology is a practice that promotes continuous testing and
+development throughout the development lifecycle of the system. In the Agile
+model of software testing, both development and testing activities are carried out
+concurrently. It is beneficial because the chosen animal rescue center will be given
+frequent and early opportunities to inspect the product and make judgments and
+revisions to the system before it will be implemented. [12].
+
+\subsection{Persons Involved}
+
+ADVISER. Being the co-author of the study, this person helps and supports
+the researchers on the duration of the conduct of the study.
+
+RESOURCE PERSON. Representative from Aklan Animal Rehabilitation and
+Rescue Center is the resource person to ensure that the system is appropriate for
+the users and the information is validated from the organization.
+
+PROGRAMMER. The programmer develops the appropriate system to perform
+methods and generate results in applying the gamification and log-in features.
+
+RESEARCHERS. The researchers perform the handy activities from inquiry,
+consultation, data gathering, system development, testing until the study is accomplished.
+
+\subsection{Technical and Software Specifications}
+
+Various software applications used for the study are considered during
+the planning and development phase conducted by the researchers.
 
 \begin{itemize}
-   \item who is responsible for the task
-   \item the resource person to be contacted
-   \item what were done
-   \item when and how long the activity was  done
-   \item where it was done
-   \item why should the activity was done
+	\item Microsoft Windows 10 for operating system - this tool was used as the main
+	operating system for developing the system.
+	\item TexStudio and Microsoft Word for Documentation - this tools were used for
+	documentation purposes. They were used for the compilation of initial drafts and final copy of
+	the SP document.
+	\item Zoom application for consultations and meeting with the adviser - since
+	face-to-face is not possible, this application was used by the researchers for
+	consultations and meetings with the adviser.
+	\item Github - Github was used for version control of the system and for easier
+	collaboration. Github lets the researchers work together remotely.
+	\item Adobe XD - Adobe XD is a prototyping tool for user experience and
+	interaction designers. The tool was used for the initial prototype of the
+	system.
 \end{itemize}
+
+\subsection{Testing and operation}
+
+This is the phase that ensures the system’s operability and functionality.
+Testing is necessary to elicit supplementary details and information to enhance
+and improve the system.
+
+People involved in the testing were asked to provide suggestions and recommendations
+for enhancing and improving the system.
+
+The study is tested by the following users: a) AARRC representative b) researcher’s
+adviser c) researchers d) developers and e) random users.
+
+\subsection{System Implementation}
+
+The system’s possible implementation, as envisioned by the researchers, is
+web-based. The mobile development of the system is further pursued based on
+the researchers’ decision or can be done by future researchers who will conduct the
+same study. Because the study’s focus is on the application of gamification and
+log-in features to the animal rescue system, the study will be implemented after
+careful and successful testing and operation of the system by domain experts.
+
+\subsection{Methods}
+\subsubsection{Federated login}
+
+The internet is a vast world, and its population of users just grows dayby-
+day. This is more prevalent as the pandemic caused lockdowns that brought
+everything online. People create different user accounts, social media, educational
+sites, lifestyle applications, and many other more. This results in many accounts
+signing in credentials to remember, and we all know how passwords can be a
+pain, we just can’t help but forget it. Some users may opt to have the same
+password on multiple different accounts just so that they will not forget it, which
+is a big security risk. One solution to avoid this problem without sacrificing the
+safety of the user is by using federated login. Federated login means that the user
+authenticates by using a third-party service such as Google or Facebook, besides
+others, and not reentering any credentials or profile information.
+
+\subsubsection{Account Creation}
+
+\subsection{Procedures}
+
+\subsubsection{Integration of Federated Login}
+
+We will use Google sign-in as a federated login tool for the website. According to
+Google, Google sign-in manages the OAuth 2.0 flow and token lifecycle, simplifying
+the integration with Google APIs. OAuth 2.0 is the industry-standard protocol
+for authorization. The steps and guide below will be taken from Google’s own
+developer website, https://developers.google.com. First step is to create authorization
+credentials, any application that uses OAuth 2.0 to access Google APIs
+must have authorization credentials that identify that application to Google’s
+OAuth Server (Google. (n.d.).
+
+1. Go to the Credentials page, https://console.developers.google.com/apis/credentials.
+
+2. Click Create credentials → OAuth client ID.
+
+3. Select the Web application type.
+
+4. Name your OAuth 2.0 client and click Create.
+After configuration is complete, take note of the client ID that was
+created. You will need the client ID to complete the next steps. (A client
+secret is also created, but you need it only for server-side operations.)
+
+5. Load the Google Platform Library.
+
+6. Specify the app’s client ID created for the app in the Google Developers
+Console with the google signin-client-id meta element.
+
+7. Add a Google sign-in button, the default Google sign-in button that uses
+the default setting needs to add a div element with the class g-signin2 in
+the sign-in page.
+
+8. Get profile information by using the getBasicProfile() method.
+Enabling user to sign out of the web app without signing out of Google
+by adding a sign-out button or link to the web site. To create a sign-out
+link, attach a function that calls the GoogleAuth.signOut() method to the
+link’s onclick event.
+
+\section{Calendar of activities}
+
+The researchers scheduled the activities on the duration of the conduct of the study, as shown in Table \ref{tab:timetableactivities}. Each bullet represents approximately one week worth of activity.
+
+%
+%  the following commands will be used for filling up the bullets in the Gantt chart
+%
+\newcommand{\weekone}{\textbullet}
+\newcommand{\weektwo}{\textbullet \textbullet}
+\newcommand{\weekthree}{\textbullet \textbullet \textbullet}
+\newcommand{\weekfour}{\textbullet \textbullet \textbullet \textbullet}
+
+%
+%  alternative to bullet is a star 
+%
+\begin{comment}
+	\newcommand{\weekone}{$\star$}
+	\newcommand{\weektwo}{$\star \star$}
+	\newcommand{\weekthree}{$\star \star \star$}
+	\newcommand{\weekfour}{$\star \star \star \star$ }
+\end{comment}
+
+
+
+\begin{table}[ht]   %t means place on top, replace with b if you want to place at the bottom
+	\centering
+	\caption{Timetable of Activities} \vspace{0.25em}
+	\begin{tabular}{|p{1.8in}|c|c|c|c|c|c|c|c|} \hline
+		\centering Activities (2021-2022) & Sep   & Oct & Nov & Dec & Jan & Feb & Mar & Apr \\ \hline
+		Identify possible SP topics      &  \weekone  &  &  &  &  &  &  & \\ \hline
+		Proposal of chosen SP topic to the adviser &  & \weekone &  &  &  &  &  & \\ \hline
+		Approval from the adviser of the chosen SP topic       &  & \weekone &  &  &  &  &  & \\ \hline
+		Presentation of use cases and workflow of the system    &   & \weekone &  &  &  &  &  & \\ \hline
+		Research for related literatures  &   & \weekone & \weekfour &  &  &  &  & \\ \hline
+		Making of research proposal (First draft) & \weekone  & \weekfour & \weekone  &  &  &  &  & \\ \hline
+		Development of the System &  & \weekone & \weekfour & \weektwo & \weektwo & \weekfour &  & \\ \hline
+		Testing and operation &  &  &  & \weektwo &  &  & \weekfour & \\ \hline
+		Analysis and Interpretation of results &   &  &  &  &  & \weekfour & \weekfour & \\ \hline
+		Discussion of results &  &  &  & \weekfour &  & & \weekfour & \weekfour \\ \hline
+		Documentation & \weekone  & \weekfour & \weekfour & \weekfour & \weekfour & \weekfour & \weekfour & \weekfour \\ \hline
+	\end{tabular}
+	\label{tab:timetableactivities}
+\end{table}
 
 
