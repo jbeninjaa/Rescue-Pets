@@ -3,18 +3,24 @@
 %               a. specify related packages
 %               b. set margins, commands, etc.
 %\documentclass[12pt,titlepage,onepage, letterpaper]{article}
-\documentclass[12pt,titlepage,onepage, letterpaper]{report}
+\documentclass[12pt,titlepage,twopage, letterpaper]{book}
 %
 %-- specify related packages
 % \usepackage[utf8x]{inputenc}
-\usepackage{float}       % -- For images
 \usepackage{pdfpages}
 \usepackage{apacite}         %-- APA style citation  http://www.ctan.org/tex-archive/biblio/bibtex/contrib/apacite/
+
+%no heading "References" before the references list
+\makeatletter
+\let\st@rtbibsection\@bibnewpage
+\let\st@rtbibchapter\@bibnewpage
+\makeatother
+
 \usepackage{amsmath}       % American Math Society packages
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{graphicx}      %needed for including figures in JPG or PNG format
- \usepackage{verbatim}     % tmultiple lines of comments
+ \usepackage{verbatim}     % multiple lines of comments
                                %-- example:
                                %   \begin{comment}
                                %        ...your text here...
@@ -22,6 +28,8 @@
 \usepackage{color}  %-- allows use of color with text
                                %-- example:  \textcolor{red}{This is the colored text in red.}
 \usepackage{url}  %-- allows use of URLs example: \url{https:\ccs1.dlsu.edu.ph}
+\usepackage{tabularx}
+ \usepackage{setspace}
 
 
 %
