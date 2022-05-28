@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: SP-name.aux
+The top-level auxiliary file: Rescue Pets.aux
 Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apacite.bst
 Reallocating 'name_of_file' (item size: 1) to 15 items.
@@ -36,7 +36,6 @@ Reallocating 'name_of_file' (item size: 1) to 15 items.
 A level-1 auxiliary file: appendix_A.aux
 Reallocating 'name_of_file' (item size: 1) to 15 items.
 A level-1 auxiliary file: appendix_B.aux
-I found no \citation commands---while reading file SP-name.aux
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
 Reallocating 'global_strs' (item size: 1) to 4000000 items.
@@ -48,45 +47,45 @@ Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: myreferences.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 0 entries,
+You've used 11 entries,
             6951 wiz_defined-function locations,
-            1282 strings with 10842 characters,
-and the built_in function-call counts, 43 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 1
-:= -- 32
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+            1340 strings with 12757 characters,
+and the built_in function-call counts, 18843 in all, are:
+= -- 2366
+> -- 109
+< -- 920
++ -- 851
+- -- 26
+* -- 1136
+:= -- 3549
+add.period$ -- 50
+call.type$ -- 11
+change.case$ -- 155
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 22
+duplicate$ -- 359
+empty$ -- 821
+format.name$ -- 154
+if$ -- 3657
 int.to.chr$ -- 0
-int.to.str$ -- 0
+int.to.str$ -- 33
 missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+newline$ -- 248
+num.names$ -- 72
+pop$ -- 686
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 47
 quote$ -- 0
-skip$ -- 1
+skip$ -- 1021
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 915
+swap$ -- 191
+text.length$ -- 38
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 0
+type$ -- 1056
 warning$ -- 0
-while$ -- 0
+while$ -- 64
 width$ -- 0
-write$ -- 2
-(There were 2 error messages)
+write$ -- 284
+(There was 1 error message)

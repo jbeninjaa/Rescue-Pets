@@ -1,11 +1,7 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces The figure shows the use case diagram for the user and admin of the system.}}{13}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces The homepage of the system consists of three sub-pages: the main page, the information page, and the contacts page. Each page can be accessed either by scrolling or aside clicking each corresponding button at the navigation bar above the home page. In the navigation bar. The main page has a “Join Now” button where users can create an account and sign up.}}{16}{}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces The sign up page shows a form where the user will input credentials such as username, email, and password. These credentials are used to make an account for the user to access exclusive features such as the virtual pet. The user can also use third-party services to provide necessary information for signing up such as Facebook and Google.}}{17}{}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces The navigation bar or the menu bar of the system consists of the brand logo and name, the home link, information link, contacts/support link, and the link to \emph {Aklan Animal Rescue and Rehabilitation Center’s} website, and the Login button where users can input their account credentials to sign in.}}{17}{}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces The login page allows the user that has already an existing account to sign in to the system. The user is asked to input the username and password or either use third party services such as Facebook and Google to login.}}{18}{}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces The user is then greeted by the profile page after logging in to the system. Profile page consists of the user’s virtual pet where information such as level, experience points, and evolution will be shown. It also consists of the adopt, donate, and volunteer button where the user can increase their virtual pet’s experience point to level up.}}{19}{}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }

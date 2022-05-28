@@ -6,35 +6,30 @@
 \contentsline {subsection}{\numberline {1.3.2}Specific Objectives}{2}{}%
 \contentsline {section}{\numberline {1.4}Scope and Limitations of the Research}{3}{}%
 \contentsline {section}{\numberline {1.5}Significance of the Research}{3}{}%
-\contentsline {chapter}{\numberline {2}Review of Related Literature}{4}{}%
-\contentsline {section}{\numberline {2.1}The Rise of Animal Welfarism}{4}{}%
-\contentsline {section}{\numberline {2.2}Philippine Animal Welfare Society}{5}{}%
-\contentsline {section}{\numberline {2.3}The Albert Foundation}{5}{}%
-\contentsline {section}{\numberline {2.4}Gamification}{6}{}%
-\contentsline {section}{\numberline {2.5}Gcash Forest}{7}{}%
-\contentsline {section}{\numberline {2.6}Automatic Login of Account}{8}{}%
-\contentsline {chapter}{\numberline {3}Research Methodology}{9}{}%
-\contentsline {section}{\numberline {3.1}Research Activities}{9}{}%
-\contentsline {subsection}{\numberline {3.1.1}Design of the Study}{9}{}%
-\contentsline {subsection}{\numberline {3.1.2}Persons Involved}{10}{}%
-\contentsline {subsection}{\numberline {3.1.3}Technical and Software Specifications}{10}{}%
-\contentsline {subsection}{\numberline {3.1.4}User Specifications}{11}{}%
-\contentsline {subsection}{\numberline {3.1.5}Testing and operation}{11}{}%
-\contentsline {subsection}{\numberline {3.1.6}System Implementation}{11}{}%
-\contentsline {subsection}{\numberline {3.1.7}Methods}{12}{}%
-\contentsline {subsubsection}{Federated login}{12}{}%
-\contentsline {subsubsection}{Account Creation}{12}{}%
-\contentsline {subsection}{\numberline {3.1.8}Procedure}{12}{}%
-\contentsline {subsubsection}{Integration of Federated login}{12}{}%
-\contentsline {section}{\numberline {3.2}Calendar of Activities}{13}{}%
-\contentsline {chapter}{\numberline {4}Preliminary Results/System Prototype}{15}{}%
-\contentsline {section}{\numberline {4.1}Preliminary Results}{15}{}%
-\contentsline {section}{\numberline {4.2}System Prototype}{16}{}%
-\contentsline {subsection}{\numberline {4.2.1}Home Page}{16}{}%
-\contentsline {subsection}{\numberline {4.2.2}Sign Up Page}{17}{}%
-\contentsline {subsection}{\numberline {4.2.3}Navigation Bar}{17}{}%
-\contentsline {subsection}{\numberline {4.2.4}Log-in Page}{18}{}%
-\contentsline {subsection}{\numberline {4.2.5}Profile Page}{19}{}%
-\contentsline {chapter}{\numberline {A}Appendix}{20}{}%
-\contentsline {chapter}{\numberline {B}Resource Persons}{21}{}%
-\contentsline {chapter}{References}{22}{}%
+\contentsline {chapter}{\numberline {2}Review of Related Literature}{5}{}%
+\contentsline {section}{\numberline {2.1}The Rise of Animal Welfarism}{5}{}%
+\contentsline {section}{\numberline {2.2}Philippine Animal Welfare Society}{6}{}%
+\contentsline {section}{\numberline {2.3}The Albert Foundation}{6}{}%
+\contentsline {section}{\numberline {2.4}Gamification}{7}{}%
+\contentsline {section}{\numberline {2.5}Gcash Forest}{8}{}%
+\contentsline {section}{\numberline {2.6}Automatic Login of Account}{9}{}%
+\contentsline {chapter}{\numberline {3}Research Methodology}{11}{}%
+\contentsline {section}{\numberline {3.1}Design of the Study}{11}{}%
+\contentsline {section}{\numberline {3.2}Persons Involved}{12}{}%
+\contentsline {section}{\numberline {3.3}System Specifications}{12}{}%
+\contentsline {subsection}{\numberline {3.3.1}Use Case Diagram}{12}{}%
+\contentsline {subsection}{\numberline {3.3.2}Functional Requirements}{12}{}%
+\contentsline {section}{\numberline {3.4}User Specifications}{15}{}%
+\contentsline {section}{\numberline {3.5}Technical and Software Specifications}{15}{}%
+\contentsline {section}{\numberline {3.6}Procedures}{16}{}%
+\contentsline {subsection}{\numberline {3.6.1}Development of the System}{16}{}%
+\contentsline {subsection}{\numberline {3.6.2}Testing and operation}{17}{}%
+\contentsline {subsection}{\numberline {3.6.3}System Implementation}{17}{}%
+\contentsline {chapter}{\numberline {4}Results and Discussions/Analyses}{19}{}%
+\contentsline {section}{\numberline {4.1}Results}{19}{}%
+\contentsline {subsection}{\numberline {4.1.1}Sign-up Page}{20}{}%
+\contentsline {subsection}{\numberline {4.1.2}Login Page}{20}{}%
+\contentsline {subsection}{\numberline {4.1.3}Home Page}{20}{}%
+\contentsline {subsection}{\numberline {4.1.4}Profile {Page}}{20}{}%
+\contentsline {chapter}{\numberline {A}Acceptance Letter}{21}{}%
+\contentsline {chapter}{\numberline {B}Resource Persons}{23}{}%

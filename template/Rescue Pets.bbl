@@ -1,3 +1,279 @@
 \begin{thebibliography}{}
 
+\bibitem [\protect \citeauthoryear {%
+{Aklan Animal Rehabilitation and Rescue Center}%
+}{%
+{Aklan Animal Rehabilitation and Rescue Center}%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+aarrc2020animal}
+\APACinsertmetastar {%
+aarrc2020animal}%
+\begin{APACrefauthors}%
+{Aklan Animal Rehabilitation and Rescue Center}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{April}{}.
+\newblock
+\APACrefbtitle {Animal Welfare In the Philippines - AARRC Philippines.} {Animal
+  welfare in the philippines - aarrc philippines.}
+\newblock
+\APACaddressPublisher{}{ROI Media}.
+\newblock
+\begin{APACrefURL} \url{https://aklananimalrescue.com/animal-welfare/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gabriel%
+}{%
+Gabriel%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+gabriel2020gcash}
+\APACinsertmetastar {%
+gabriel2020gcash}%
+\begin{APACrefauthors}%
+Gabriel.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{July}{}.
+\newblock
+\APACrefbtitle {GCash makes it easier for Green Heroes to digitally plant
+  trees.} {Gcash makes it easier for green heroes to digitally plant trees.}
+\newblock
+\APAChowpublished {Manila Republic}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.manilarepublic.com/gcash-makes-it-easier-for-green-heroes-to-digitally-plant-trees/14671/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hamari%
+, Koivisto%
+\BCBL {}\ \BBA {} Sarsa%
+}{%
+Hamari%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+hamari2014does}
+\APACinsertmetastar {%
+hamari2014does}%
+\begin{APACrefauthors}%
+Hamari, J.%
+, Koivisto, J.%
+\BCBL {}\ \BBA {} Sarsa, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Does gamification work?--a literature review of
+  empirical studies on gamification} {Does gamification work?--a literature
+  review of empirical studies on gamification}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2014 47th Hawaii international conference on system
+  sciences} {2014 47th hawaii international conference on system sciences}\
+  (\BPGS\ 3025--3034).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hamilton%
+}{%
+Hamilton%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+hamilton2021agile}
+\APACinsertmetastar {%
+hamilton2021agile}%
+\begin{APACrefauthors}%
+Hamilton, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{November}{}.
+\newblock
+\APACrefbtitle {Agile Methodology: What is Agile Model in Software Testing?}
+  {Agile methodology: What is agile model in software testing?}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.guru99.com/agile-scrum-extreme-testing.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Integrating Google Sign-In into Your Web App}}{%
+\APACcitebtitle {Integrating Google Sign-In into Your Web App}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+google00integrating}
+\APACinsertmetastar {%
+google00integrating}%
+\APACrefbtitle {Integrating Google Sign-In into Your Web App.} {Integrating
+  google sign-in into your web app.}
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APAChowpublished {Google Developers}.
+\newblock
+\begin{APACrefURL}
+  \url{https://developers.google.com/identity/sign-in/web/sign-in}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Magazine%
+}{%
+Magazine%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+adobo2019digital}
+\APACinsertmetastar {%
+adobo2019digital}%
+\begin{APACrefauthors}%
+Magazine, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{June}{}.
+\newblock
+\APACrefbtitle {Digital: GCash Launches ‘GCash Forest’ in Partnership with
+  DENR, WWF, and BIOFIN to Increase Tree Plantation in the Philippines.}
+  {Digital: Gcash launches ‘gcash forest’ in partnership with denr, wwf,
+  and biofin to increase tree plantation in the philippines.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.adobomagazine.com/philippine-news/digital-gcash-launches-gcash-forest-in-partnership-with-denr-wwf-and-biofin-to-increase-tree-plantation-in-the-philippines/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Merriam-Webster%
+}{%
+Merriam-Webster%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+merriam00gami}
+\APACinsertmetastar {%
+merriam00gami}%
+\begin{APACrefauthors}%
+Merriam-Webster.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {Gamification.} {Gamification.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.merriam-webster.com/dictionary/gamification}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Philippine Animal Welfare Society}%
+}{%
+{Philippine Animal Welfare Society}%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+paws2013programs}
+\APACinsertmetastar {%
+paws2013programs}%
+\begin{APACrefauthors}%
+{Philippine Animal Welfare Society}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+\APACrefbtitle {Programs.} {Programs.}
+\newblock
+\APACaddressPublisher{}{ROI Media}.
+\newblock
+\begin{APACrefURL} \url{https://paws.org.ph/programs/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Recognition of animal sentience and prohibition of animal
+  suffering}}{%
+\APACcitebtitle {Recognition of animal sentience and prohibition of animal
+  suffering}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+animalprotect00phil}
+\APACinsertmetastar {%
+animalprotect00phil}%
+\APACrefbtitle {Recognition of animal sentience and prohibition of animal
+  suffering.} {Recognition of animal sentience and prohibition of animal
+  suffering.}
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APAChowpublished {(World Animal Protection}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sv{\"a}rd%
+}{%
+Sv{\"a}rd%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+svard2015problem}
+\APACinsertmetastar {%
+svard2015problem}%
+\begin{APACrefauthors}%
+Sv{\"a}rd, P\BHBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2015}.
+\unskip\
+\newblock
+\APACrefbtitle {Problem animals: A critical genealogy of animal cruelty and
+  animal welfare in Swedish politics 1844--1944} {Problem animals: A critical
+  genealogy of animal cruelty and animal welfare in swedish politics
+  1844--1944}\ \APACtypeAddressSchool {\BUPhD}{}{}.
+\unskip\
+\newblock
+\APACaddressSchool {}{Department of Political Science, Stockholm University}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zichermann%
+\ \BBA {} Cunningham%
+}{%
+Zichermann%
+\ \BBA {} Cunningham%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+zichermann2011gamification}
+\APACinsertmetastar {%
+zichermann2011gamification}%
+\begin{APACrefauthors}%
+Zichermann, G.%
+\BCBT {}\ \BBA {} Cunningham, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2011}.
+\newblock
+\APACrefbtitle {Gamification by design: Implementing game mechanics in web and
+  mobile apps} {Gamification by design: Implementing game mechanics in web and
+  mobile apps}.
+\newblock
+\APACaddressPublisher{}{" O'Reilly Media, Inc."}.
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}

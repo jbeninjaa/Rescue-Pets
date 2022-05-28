@@ -1,11 +1,22 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces The figure shows the use case diagram for the user and admin of the system.}}{17}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces The sign up page shows a form where the user will input credentials such as username, email, and password. These credentials are used to make an account for the user to access exclusive features such as the virtual pet. The user can also use third-party services to provide necessary information for signing up such as Facebook and Google.}}{24}{}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces The login page allows the user that has already an existing account to sign in to the system. The user is asked to input the username and password or either use third party services such as Facebook and Google to login.}}{25}{}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces The homepage of the system consists of three sub-pages: the main page, the information page, and the contacts page. Each page can be accessed either by scrolling or aside clicking each corresponding button at the navigation bar above the home page. In the navigation bar. The main page has a “Join Now” button where users can create an account and sign up.}}{26}{}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces The homepage of the system consists of three sub-pages: the main page, the information page, and the contacts page. Each page can be accessed either by scrolling or aside clicking each corresponding button at the navigation bar above the home page. In the navigation bar. The main page has a “Join Now” button where users can create an account and sign up.}}{26}{}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Rescue Pets Logo}}{26}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Sign-Up Page}}{27}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Sign-Up Form}}{27}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces The Login Page}}{28}{}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Home Page}}{28}{}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces About Aklan Animal Rehabilitation and Rescue Center}}{29}{}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces About Aklan Animal Rehabilitation and Rescue Center}}{29}{}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Contact Us}}{30}{}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Profile Page}}{30}{}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces System Footer}}{31}{}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Navigation Bar}}{31}{}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Cat (transition from upper-left to lower right)}}{32}{}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Dog (transition from upper-left to lower right)}}{32}{}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Rabbit (transition from upper-left to lower right)}}{32}{}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
