@@ -1,0 +1,203 @@
+
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background-color: #d3d3d9;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+/*logo sizing for mobile*/
+header img {
+  width: 52px;
+  height: 52px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+nav ul li {
+  display: inline-block;
+  text-transform: uppercase;
+  font-family: "Press Start 2P", cursive;
+  font-size: 1.5vh;
+}
+
+
+/*about button*/
+#button-one {
+  background-color: #3bb273;
+  padding: 10px 2px;
+  border-radius: 10%;
+  box-shadow: -3px 3px 3px #339963;
+}
+/*projects button*/
+#button-two {
+  background-color: #4d9de0;
+  padding: 10px 2px;
+  border-radius: 10%;
+  box-shadow: -3px 3px 3px #2f8dda;
+}
+/*blog button*/
+#button-three {
+  background-color: #e1bc29;
+  padding: 10px 2px;
+  border-radius: 10%;
+  box-shadow: -3px 3px 3px #c4a31c;
+}
+/*contact button*/
+#button-four {
+  background-color: #e15554;
+  padding: 10px 2px;
+  border-radius: 10%;
+  box-shadow: -3px 3px 3px #da2f2f;
+}
+
+/*button click hover effect*/
+nav ul li:hover {
+  transform: scale(0.9, 0.9);
+}
+
+.logo:hover {
+  animation: rumble 0.3s linear;
+}
+
+@keyframes rumble {
+  25% {
+    transform: rotate(10deg);
+  }
+  75% {
+    transform: rotate(-20deg);
+  }
+}
+
+@media only screen and (min-width: 768px) {
+	header {
+	  justify-content: space-between;
+	}
+
+	nav ul li {
+	  padding: 10px 15px;
+	  margin-right: 20px;
+	  font-size: 1em;
+	}
+	header img {
+    	padding-left: 10px;
+    	width: 56px;
+   		height:66px;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+	header {
+	  justify-content: space-between;
+	}
+
+	nav li {
+	  padding: 10px 15px;
+	  margin-right: 20px;
+	  font-size: 1.2em;
+	}
+
+	header img {
+	  padding-left: 20px;
+	  width: 72px;
+	  height: 82px;
+  }
+}
+
+
+
+
+/*Button*/
+.button {
+  display: flex;
+  height: 50px;
+  padding: 0;
+  background: #009578;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  overflow: hidden;
+  font-family: "Quicksand", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.button:hover {
+  background: #008168;
+}
+
+.button:active {
+  background: #006e58;
+}
+
+.button__text,
+.button__icon {
+  display: inline-flex;
+  align-items: center;
+  padding: 0 24px;
+  color: #fff;
+  height: 100%;
+}
+
+.button__icon {
+  font-size: 1.5em;
+  background: rgba(0, 0, 0, 0.08);
+}
+
+/*CSS*/
+.button_pos{
+  margin-bottom: 50px;
+  margin-left: 300px;
+
+  /*border: 1px solid red*/
+}
+
+.center {
+border: 5px solid #0000;
+text-align: center;
+margin-bottom: 50px;
+margin-right: 50px;
+margin-left: 50px;
+
+/*border: 1px solid red*/
+}
+
+.element{
+  display: inline-block;
+  width: 700px;
+  height: 100%;
+  /*background: #ce8888;*/
+}
+
+ th, td, tr{
+  border: 1px solid;
+  margin: 50px;
+  padding: 10px;
+}
+
+table{
+  margin-left: 50px;
+}
+
+.table-header{
+  margin-top: 25px;
+  margin-left: 50px;
+}
+
+.request_button{
+  margin-left: 50px;
+}
