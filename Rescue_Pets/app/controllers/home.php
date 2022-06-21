@@ -13,7 +13,7 @@ Class Home extends Controller
 		$gClient -> setApplicationName("Rescue Pets");
 		$gClient -> setRedirectUri("http://localhost/Rescue_Pets/public/assets/google");
 		$gClient -> addScope("https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/userinfo.email");
-	
+
 		if(isset($_GET['code']))
 		{
 			echo($_GET['code']);
