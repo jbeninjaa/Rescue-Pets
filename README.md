@@ -9,4 +9,7 @@
   -  knowledge of installing, configuring, and maintaining Apache
   -  database design and optimization using MySQL
   -  serverside scripting using PHP
-- 
+- Basic frontend integration using HTML, CSS, and JavaScript
+- Data Sanitation
+- Secure Authentication and Authorization with the use of Google OAuth
+
